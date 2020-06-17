@@ -66,9 +66,6 @@ def forca(x=0):
 
 erros=0
 
-aux = "abcdefghijklmnopqrstuvwxyz-"
-letrasUsadas = ""
-
 #CAPTURA PALAVRA INICIAL
 nome = input("Nome do Jogador(a):")
 word=input('Informe a palavra: ');
